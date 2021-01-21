@@ -1,0 +1,16 @@
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.csprojAssemblyReference.cache
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.AssemblyInfoInputs.cache
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.AssemblyInfo.cs
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.csproj.CoreCompileInputs.cache
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\Calcula média de aluno csharp.exe
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\Calcula média de aluno csharp.deps.json
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\Calcula média de aluno csharp.runtimeconfig.json
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\Calcula média de aluno csharp.runtimeconfig.dev.json
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\Calcula média de aluno csharp.dll
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\ref\Calcula média de aluno csharp.dll
+C:\Users\Max\Calcula média de aluno csharp\bin\Debug\net5.0\Calcula média de aluno csharp.pdb
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.dll
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\ref\Calcula média de aluno csharp.dll
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.pdb
+C:\Users\Max\Calcula média de aluno csharp\obj\Debug\net5.0\Calcula média de aluno csharp.genruntimeconfig.cache
